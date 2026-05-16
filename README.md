@@ -10,6 +10,8 @@ and order trends.
 * Category-wise insights
 # tools used
 *Excel ( pivot tables, Charts, Dashboard design)
+# Dashboard Screenshot
+dashboard.png
 # Insights
 * Sales how an overall increasing trend with fluctations
 * West region generataes highest revenue
