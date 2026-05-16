@@ -11,7 +11,7 @@ and order trends.
 # tools used
 *Excel ( pivot tables, Charts, Dashboard design)
 # Dashboard Screenshot
-<img width="1366" height="768" alt="Dashboard Preview" src=>
+<img width="1366" height="768" alt="Dashboard Preview" src=dashboard.png>
 # Insights
 * Sales how an overall increasing trend with fluctations
 * West region generataes highest revenue
